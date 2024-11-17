@@ -1,0 +1,6 @@
+# ignore data and checkpoints
+*.col
+*.ipynb_checkpoints
+.DS_Store
+.idea/*
+/__pycache__
